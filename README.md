@@ -1,3 +1,3 @@
 # Memories-project
 
-![alt text](https://github.com/Grihasss/Memories-project/client/src/images/Memories.bmp?raw=true)
+![alt text](https://raw.githubusercontent.com/Grihasss/Memories-project/master/client/src/images/Memories.bmp)
